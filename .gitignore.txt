@@ -1,0 +1,28 @@
+# Временные и служебные файлы 1С
+*.cf
+*.dt
+*.epf
+*.erf
+*.mft
+
+# Локальные настройки и кэш Конфигуратора
+/ConfigDumpInfo.xml
+/1cv8.pfl
+/1cv8u.pfl
+
+# Папки кэша и временные
+/Temp/
+/temp/
+/Cache/
+/cache/
+
+# Файлы ОС и редакторов
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
