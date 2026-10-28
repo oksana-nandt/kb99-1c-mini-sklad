@@ -228,7 +228,7 @@
 					</Synonym>
 					<Comment/>
 					<ToolTip/>
-					<FillChecking>DontCheck</FillChecking>
+					<FillChecking>ShowError</FillChecking>
 					<LineNumberLength>9</LineNumberLength>
 				</Properties>
 				<ChildObjects>

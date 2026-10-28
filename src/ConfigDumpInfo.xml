@@ -21,7 +21,7 @@
 		<Metadata name="CommandGroup.Справочники" id="f6baab4f-e374-42d2-840e-2af6680fd05a" configVersion="d422bd3bbe4c1d43a2d7c92f75034baa00000000"/>
 		<Metadata name="Configuration.МиниСклад" id="73cd6ff5-7a40-4d0e-bfa4-061573b8ac78" configVersion="421f01a5bc1ca04fa4472ed4e914ff7200000000"/>
 		<Metadata name="Configuration.МиниСклад.ClientApplicationInterface" id="4607453d-0dfe-4ead-ac58-04630a2f2783.b" configVersion="416bed5922313c439013b53ddbf714c000000000"/>
-		<Metadata name="Document.Поступление" id="1b6c8485-b152-439b-99d8-17b668f993ef" configVersion="15dad72ff09630489fd9e8bace174d6000000000">
+		<Metadata name="Document.Поступление" id="1b6c8485-b152-439b-99d8-17b668f993ef" configVersion="cb86d165e8dbaf46925cc70f06c8f32f00000000">
 			<Metadata name="Document.Поступление.TabularSection.СписокТоваров.Attribute.Количество" id="496c5ea9-a381-4646-8dfa-b222ca25f112"/>
 			<Metadata name="Document.Поступление.Attribute.СуммаДокумента" id="6e69f5e3-1338-420e-b119-f54d587a14de"/>
 			<Metadata name="Document.Поступление.TabularSection.СписокТоваров" id="97fe952c-6e0d-4483-a139-c05c75c2d2a8"/>
@@ -34,7 +34,7 @@
 		<Metadata name="Document.Поступление.Form.ФормаДокумента" id="ad6ec444-bcae-474e-a86b-fb98dc467b9a" configVersion="1fb08b796496e64faa4f023ff0ef71d600000000"/>
 		<Metadata name="Document.Поступление.Form.ФормаДокумента.Form" id="ad6ec444-bcae-474e-a86b-fb98dc467b9a.0" configVersion="5d7be14a192bc940ad9ad9a03e26c5c700000000"/>
 		<Metadata name="Document.Поступление.ObjectModule" id="1b6c8485-b152-439b-99d8-17b668f993ef.0" configVersion="9e41fad1f1778847939e6e18344c980000000000"/>
-		<Metadata name="Document.Реализация" id="be424e02-3ac5-4ed7-9e0a-361e94672615" configVersion="2a9543ffb290a34684b127f1c55d402a00000000">
+		<Metadata name="Document.Реализация" id="be424e02-3ac5-4ed7-9e0a-361e94672615" configVersion="f49d5357a5b58a498dcb37523fb9440500000000">
 			<Metadata name="Document.Реализация.Attribute.Покупатель" id="073a462d-7e2b-4951-bb35-3b4995331504"/>
 			<Metadata name="Document.Реализация.TabularSection.СписокТоваров.Attribute.Цена" id="47e0a510-6e42-429a-9cff-71bc17147128"/>
 			<Metadata name="Document.Реализация.TabularSection.СписокТоваров.Attribute.Количество" id="4c6ae13e-7a03-453b-9d83-f778e4697e1e"/>
