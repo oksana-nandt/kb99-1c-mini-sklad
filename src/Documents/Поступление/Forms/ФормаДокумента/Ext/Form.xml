@@ -96,7 +96,7 @@
 					<ContextMenu name="СписокТоваровКоличествоКонтекстноеМеню" id="51"/>
 					<ExtendedTooltip name="СписокТоваровКоличествоРасширеннаяПодсказка" id="52"/>
 					<Events>
-						<Event name="OnChange">ТоварыКоличествоПриИзменении</Event>
+						<Event name="OnChange">СписокТоваровКоличествоПриИзменении</Event>
 					</Events>
 				</InputField>
 				<InputField name="СписокТоваровЦена" id="54">
@@ -106,7 +106,7 @@
 					<ContextMenu name="СписокТоваровЦенаКонтекстноеМеню" id="55"/>
 					<ExtendedTooltip name="СписокТоваровЦенаРасширеннаяПодсказка" id="56"/>
 					<Events>
-						<Event name="OnChange">ТоварыЦенаПриИзменении</Event>
+						<Event name="OnChange">СписокТоваровЦенаПриИзменении</Event>
 					</Events>
 				</InputField>
 				<InputField name="СписокТоваровСумма" id="58">
