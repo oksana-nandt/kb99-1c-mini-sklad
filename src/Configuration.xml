@@ -275,7 +275,10 @@
 			<Document>Поступление</Document>
 			<Document>Реализация</Document>
 			<Enum>ТипКонтрагента</Enum>
+			<Report>ОборотТоваров</Report>
+			<Report>ПродажиТоваров</Report>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
+			<AccumulationRegister>ПродажиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
