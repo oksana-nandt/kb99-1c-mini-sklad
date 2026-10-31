@@ -277,6 +277,7 @@
 			<Enum>ТипКонтрагента</Enum>
 			<Report>ОборотТоваров</Report>
 			<Report>ПродажиТоваров</Report>
+			<Report>ОстаткиТоваров</Report>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 			<AccumulationRegister>ПродажиТоваров</AccumulationRegister>
 		</ChildObjects>
